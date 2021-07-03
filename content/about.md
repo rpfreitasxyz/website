@@ -1,30 +1,28 @@
 ---
-date: "2014-04-09"
+date: "2021-07-03"
 menu: main
-title: About Hugo
+title: Sobre mim
 ---
 
-Hugo is a static site engine written in Go.
+Oi!
 
+Meu nome é Rafael Pinto de Freitas, engenheiro de produção formado na UFRJ. Meu [projeto de graduação](https://github.com/rpfreitasxyz/PG_2) foi relativo ao estudo de métodos usuais de valuation, assim como a aplicação breve dos mesmos à COPEL, de forma a exemplificar o processo ao leitor.
 
-It makes use of a variety of open source projects including:
+Além disso, tenho bastante interesse em esportes em si, e frequentemente minha rotina de treino inclui exercícios 2x ao dia, todo dia. Recentemente, comecei a treinar para corridas de longas distâncias, atingindo a marca de 18K@4'38" em 2021-07-01, aproximadamente após 2 meses de treino quase diário. A meta? Uma maratona completa.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+No tempo livre, me interesso com projetos de ETL de dados, ciência de dados, BI e, atualmente, administração *nix. Em verdade, tudo isso tem a finalidade de me educar com relação à tecnologia que nos rodeia, para tentar deixar de ser tão paleolítico.
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Por mais que esteja tentando adquirir conhecimento tecnológico, eu não tenho Facebook ou Instagram. Isso já é motivo suficiente pra muitas pessoas, sejam jovens ou mais velhas, torcerem o pescoço. Quantas pessoas você conhece que não têm Facebook?
 
-## Setup
+Mas a hipocrisia? Não tenho Facebook ou Instagram, mas tenho [LinkedIn](https://linkedin.com/in/rafael-pinto-de-freitas)! Este é, na verdade, uma ótima ferramenta para lembrar do histórico de carreira -- assim como estar constantemente atualizado, a contrário do [CV](/CV_rpfreitas.pdf). Eu sou terrível com datas!
 
-Some fun facts about [Hugo](http://gohugo.io/):
+Estou aberto a propostas relacionadas a ETL de dados, engenharia de dados e BI, principalmente se existir um aspecto de trabalho remoto envolvido. Peço, entretanto, que seja claro com a proposta.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+## Contato
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+Algumas vias para me contatar:
 
-Thanks for reading!
+* Primariamente por email: [rpfreitas@rpfreitas.xyz](mailto:rpfreitas@rpfreitas.xyz)
+* [LinkedIn](https://linkedin.com/in/rafael-pinto-de-freitas)
+
+Obrigado por visitar a minha página! :)
