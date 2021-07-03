@@ -1,8 +1,8 @@
-baseurl: http://example.org/
-title: Hugo Website
+baseurl: https://rpfreitas.xyz/
+title: Rafael Pinto
 theme: hugo-theme-nix
 languageCode: en-us
-disqusShortname: your_disqus_shortname
+# disqusShortname: your_disqus_shortname
 menu:
   header:
     - name: post
@@ -12,21 +12,19 @@ menu:
       url: about
       weight: 1
 params:
-  About: Hi I'm Hugo and this is my website. I am a developer, writer and family man.
-    I like developing websites using Hugo, sports, nature, photography and travel.
-    On this websites you can expect my projects and blog posts about everything I
-    love. Enjoy!
-  Email: your_email
-  Favicon: /favicon.ico
-  GithubID: your_github
-  HeaderHostname: gohugo.io
-  HeaderUsername: hugo
-  LinkedInID: your_linkedin
-  MediumID: your_medium
-  Name: Mr Hugo
-  ProfilePicture: /profile.jpg
-  SoundcloudID: your_soundcloud
-  SpotifyID: your_spotify
-  TelegramID: your_telegram
-  TwitterID: your_twitter
-  YoutubeID: your_youtube
+  About: Engenheiro de Produção formado pela UFRJ, testando novas habilidades. Ciência de dados, BI, análise financeira e esportes são de forte interesse. Divirtam-se!
+  Email: rpfreitas@rpfreitas.xyz
+  Favicon: /logo_bgblack_6464.png
+  GithubID: rpfreitasxyz
+  HeaderHostname: arch
+  HeaderUsername: rpfreitas
+  LinkedInID: rafael-pinto-de-freitas
+  CvURL: /CV_rpfreitas.pdf
+  # MediumID: your_medium
+  Name: Rafael Pinto
+  ProfilePicture: /retrato.jpg
+  # SoundcloudID: your_soundcloud
+  SpotifyID: savqvtu9jbapz71nwvo7j3ynn
+  # TelegramID: your_telegram
+  # TwitterID: your_twitter
+  # YoutubeID: your_youtube
