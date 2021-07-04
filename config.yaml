@@ -12,7 +12,7 @@ menu:
       url: about
       weight: 1
 params:
-  About: Engenheiro de Produção formado pela UFRJ, testando novas habilidades. Ciência de dados, BI, análise financeira e esportes são de forte interesse. Divirtam-se!
+  About: Engenheiro de Produção formado pela UFRJ, testando novas habilidades. Ciência de dados, BI, análise financeira e esportes são de forte interesse. Divirta-se!
   Email: rpfreitas@rpfreitas.xyz
   Favicon: /logo_bgblack_6464.png
   GithubID: rpfreitasxyz
